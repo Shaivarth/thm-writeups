@@ -14,9 +14,12 @@
   and also learned about some basic tools like : ping, traceroute, WHOIS, Dig.<br>
 
 # Tools 
-  * ping : 
+  * ping : The ping command is used when we want to test whether a connection to a remote resource is possible.<br>
+  
     ![Ping Test](./images/ping.png)
-  * traceroute :
+    
+  * traceroute : Traceroute can be used to map the path your request takes as it heads to the target machine.<br>
+
     ![traceroute](./images/traceroute.png)
                                                                         
   
