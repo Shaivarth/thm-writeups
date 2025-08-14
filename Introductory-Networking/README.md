@@ -14,7 +14,9 @@
   and also learned about some basic tools like : ping, traceroute, WHOIS, Dig.<br>
 
 # Tools 
-  ping : 
-  
+  * ping : 
+    ![Ping Test](./images/ping.png)
+  * traceroute :
+    ![traceroute](./images/traceroute.png)
                                                                         
   
